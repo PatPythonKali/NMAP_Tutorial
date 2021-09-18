@@ -1,0 +1,1 @@
+# Nmap 7.91 scan initiated Sat Sep 18 18:41:20 2021 as: nmap -oN nmapNormal.txt 192.168.1.1/24
