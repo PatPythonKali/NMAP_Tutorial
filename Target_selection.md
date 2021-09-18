@@ -14,3 +14,4 @@ nmap 192.168.1.1/24
 
 # Scan targets from Text file
 nmap -iL DummyIP/dummyIP.txt
+
